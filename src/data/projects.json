@@ -5,13 +5,16 @@
     "description": "C'est un mod Minecraft que j'ai crée pour un serveur privé ajoutant des choses de disney.",
     "skills": ["Java"],
     "source": "https://www.github.com",
-    "demo": "https://www.example.com"
+    "demo": "https://www.example.com",
+    "demoType": "download"
   },
   {
     "title": "École Primaire",
     "imageSrc": "projects/project.png",
-    "description": "C'est une application mobile pour controller une école primaire écologique, pour mon projet de STI2D.",
+    "description": "C'est une application mobile pour contrôler une école primaire écologique, pour mon projet de STI2D.",
     "skills": ["App Inventor", "Arduino"],
-    "source": "https://www.github.com"
+    "source": "https://appinventor.mit.edu",
+    "demo": "https://raw.githubusercontent.com/loulouteee/Portfolio/master/assets/projects/Ecole_primaire.apk",
+    "demoType": "qr"
   }
 ]
