@@ -11,7 +11,7 @@
     "title": "École Primaire",
     "imageSrc": "projects/project.png",
     "description": "C'est une application mobile pour controller une école primaire écologique, pour mon projet de STI2D.",
-    "skills": ["App Inventor"],
+    "skills": ["App Inventor", "Arduino"],
     "source": "https://www.github.com"
   }
 ]
