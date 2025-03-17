@@ -1,26 +1,17 @@
 [
   {
-    "title": "Project A",
+    "title": "Minecraft Disney Mod",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "C'est un mod Minecraft que j'ai crée pour un serveur privé ajoutant des choses de disney.",
+    "skills": ["Java"],
+    "source": "https://www.github.com",
+    "demo": "https://www.example.com"
   },
   {
-    "title": "Project B",
+    "title": "École Primaire",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "C'est une application mobile pour controller une école primaire écologique, pour mon projet de STI2D.",
+    "skills": ["App Inventor"],
     "source": "https://www.github.com"
   }
 ]
