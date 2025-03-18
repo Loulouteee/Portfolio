@@ -4,8 +4,8 @@
     "imageSrc": "projects/disneymod.png",
     "description": "C'est un mod Minecraft que j'ai crée pour un serveur privé ajoutant des choses de disney.",
     "skills": ["Java"],
-    "source": "https://www.github.com",
-    "demo": "https://www.example.com",
+    "source": "https://github.com/Loulouteee/Disney/tree/master",
+    "demo": "https://raw.githubusercontent.com/loulouteee/Portfolio/master/assets/projects/mcdisneyland_1-20-1_forge.jar",
     "demoType": "download"
   },
   {
