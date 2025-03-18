@@ -12,15 +12,15 @@
     "imageSrc": "skills/js.png"
   },
   {
+    "title": "C++ avec Arduino",
+    "imageSrc": "skills/c++.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
     "title": "Java",
     "imageSrc": "skills/java.svg"
-  },
-  {
-    "title": "Arduino",
-    "imageSrc": "skills/arduino.svg"
   }
 ]
