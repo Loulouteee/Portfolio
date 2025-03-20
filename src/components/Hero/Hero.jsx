@@ -15,6 +15,11 @@ export const Hero = () => {
           Contactez Moi
         </a>
       </div>
+      <img
+        src={getImageUrl("hero/herolou.png")}
+        alt="Hero image of me"
+        className={styles.heroImg}
+      />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>

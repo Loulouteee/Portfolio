@@ -10,7 +10,7 @@
   },
   {
     "title": "École Primaire",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/logo_app.png",
     "description": "C'est une application mobile pour contrôler une école primaire écologique, pour mon projet de STI2D.",
     "skills": ["App Inventor", "Arduino"],
     "source": "https://appinventor.mit.edu",
